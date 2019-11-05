@@ -1,0 +1,11 @@
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1.deps.json
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1.runtimeconfig.json
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1.runtimeconfig.dev.json
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1.dll
+/Users/felixbravo/Documents/NetCore/Test1/bin/Debug/netcoreapp3.0/Test1.pdb
+/Users/felixbravo/Documents/NetCore/Test1/obj/Debug/netcoreapp3.0/Test1.csprojAssemblyReference.cache
+/Users/felixbravo/Documents/NetCore/Test1/obj/Debug/netcoreapp3.0/Test1.AssemblyInfoInputs.cache
+/Users/felixbravo/Documents/NetCore/Test1/obj/Debug/netcoreapp3.0/Test1.AssemblyInfo.cs
+/Users/felixbravo/Documents/NetCore/Test1/obj/Debug/netcoreapp3.0/Test1.dll
+/Users/felixbravo/Documents/NetCore/Test1/obj/Debug/netcoreapp3.0/Test1.pdb
